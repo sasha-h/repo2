@@ -1,21 +1,21 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 2.7" />
+      <name value="Python 2.7 (NS)" />
       <type value="Python SDK" />
       <version value="Python 2.7.14" />
-      <homePath value="/usr/local/bin/python2.7" />
+      <homePath value="C:\PycharmProjects\NS\venv\Scripts\python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
-            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
-            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
-            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
-            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
-            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" type="simple" />
-            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199944087" type="simple" />
+            <root url="file://C:/PycharmProjects/NS/venv/Lib" type="simple" />
+            <root url="file://C:/PycharmProjects/NS/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/PycharmProjects/NS/venv" type="simple" />
+            <root url="file://C:/PycharmProjects/NS/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1342529748" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
@@ -27,7 +27,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="C:/PycharmProjects/NS" />
     </jdk>
   </component>
 </application>

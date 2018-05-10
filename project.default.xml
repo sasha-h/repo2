@@ -1,42 +1,9 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="InspectionProjectProfileManager">
-        <profile version="1.0">
-          <option name="myName" value="Project Default" />
-          <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-          <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-          <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-          <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
-            <option name="ourVersions">
-              <value>
-                <list size="2">
-                  <item index="0" class="java.lang.String" itemvalue="2.7" />
-                  <item index="1" class="java.lang.String" itemvalue="3.7" />
-                </list>
-              </value>
-            </option>
-          </inspection_tool>
-          <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-          <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-          <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-        </profile>
-        <version value="1.0" />
-      </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="Sasha1" />
-      </component>
-      <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7" project-jdk-type="Python SDK" />
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7 (NS)" project-jdk-type="Python SDK" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-      </component>
-      <component name="PyConsoleOptionsProvider">
-        <option name="myPythonConsoleState">
-          <console-settings sdk-home="/usr/local/bin/python2.7">
-            <option name="mySdkHome" value="/usr/local/bin/python2.7" />
-            <option name="myAddSourceRoots" value="true" />
-          </console-settings>
-        </option>
+        <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
